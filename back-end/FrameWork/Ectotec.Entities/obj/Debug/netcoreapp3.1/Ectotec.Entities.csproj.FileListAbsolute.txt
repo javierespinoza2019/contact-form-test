@@ -1,0 +1,9 @@
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\bin\Debug\netcoreapp3.1\Ectotec.Entities.deps.json
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\bin\Debug\netcoreapp3.1\Ectotec.Entities.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\bin\Debug\netcoreapp3.1\Ectotec.Entities.pdb
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\obj\Debug\netcoreapp3.1\Ectotec.Entities.AssemblyInfoInputs.cache
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\obj\Debug\netcoreapp3.1\Ectotec.Entities.AssemblyInfo.cs
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\obj\Debug\netcoreapp3.1\Ectotec.Entities.csproj.CoreCompileInputs.cache
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\obj\Debug\netcoreapp3.1\Ectotec.Entities.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\obj\Debug\netcoreapp3.1\Ectotec.Entities.pdb
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Framework\Ectotec.Entities\obj\Debug\netcoreapp3.1\Ectotec.Entities.csproj.AssemblyReference.cache

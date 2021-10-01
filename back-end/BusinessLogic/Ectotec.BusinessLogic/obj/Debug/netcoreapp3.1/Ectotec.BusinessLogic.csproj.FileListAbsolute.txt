@@ -1,0 +1,14 @@
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\bin\Debug\netcoreapp3.1\Ectotec.BusinessLogic.deps.json
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\bin\Debug\netcoreapp3.1\Ectotec.BusinessLogic.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\bin\Debug\netcoreapp3.1\Ectotec.BusinessLogic.pdb
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\bin\Debug\netcoreapp3.1\Ectotec.Entities.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\bin\Debug\netcoreapp3.1\EctoTec.Framework.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\bin\Debug\netcoreapp3.1\Ectotec.Entities.pdb
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\bin\Debug\netcoreapp3.1\EctoTec.Framework.pdb
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\obj\Debug\netcoreapp3.1\Ectotec.BusinessLogic.csproj.AssemblyReference.cache
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\obj\Debug\netcoreapp3.1\Ectotec.BusinessLogic.AssemblyInfoInputs.cache
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\obj\Debug\netcoreapp3.1\Ectotec.BusinessLogic.AssemblyInfo.cs
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\obj\Debug\netcoreapp3.1\Ectotec.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\obj\Debug\netcoreapp3.1\Ectotec.BusinessLogic.csproj.CopyComplete
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\obj\Debug\netcoreapp3.1\Ectotec.BusinessLogic.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\BusinessLogic\Ectotec.BusinessLogic\obj\Debug\netcoreapp3.1\Ectotec.BusinessLogic.pdb

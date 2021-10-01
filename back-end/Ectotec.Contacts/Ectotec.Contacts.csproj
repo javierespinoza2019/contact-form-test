@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogic\Ectotec.BusinessLogic\Ectotec.BusinessLogic.csproj" />
+    <ProjectReference Include="..\DataAccess\Ectotec.DataAccess\Ectotec.DataAccess.csproj" />
+    <ProjectReference Include="..\Framework\Ectotec.Entities\Ectotec.Entities.csproj" />
+    <ProjectReference Include="..\FrameWork\EctoTec.Framework\EctoTec.Framework.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\Contact.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+
+</Project>

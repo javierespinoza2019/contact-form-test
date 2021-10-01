@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Framework\Ectotec.Entities\Ectotec.Entities.csproj" />
+    <ProjectReference Include="..\..\FrameWork\EctoTec.Framework\EctoTec.Framework.csproj" />
+  </ItemGroup>
+
+</Project>

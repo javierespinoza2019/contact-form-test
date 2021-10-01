@@ -1,0 +1,14 @@
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\bin\Debug\netcoreapp3.1\Ectotec.DataAccess.deps.json
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\bin\Debug\netcoreapp3.1\Ectotec.DataAccess.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\bin\Debug\netcoreapp3.1\Ectotec.DataAccess.pdb
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\bin\Debug\netcoreapp3.1\Ectotec.Entities.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\bin\Debug\netcoreapp3.1\EctoTec.Framework.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\bin\Debug\netcoreapp3.1\Ectotec.Entities.pdb
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\bin\Debug\netcoreapp3.1\EctoTec.Framework.pdb
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\obj\Debug\netcoreapp3.1\Ectotec.DataAccess.csproj.AssemblyReference.cache
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\obj\Debug\netcoreapp3.1\Ectotec.DataAccess.AssemblyInfoInputs.cache
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\obj\Debug\netcoreapp3.1\Ectotec.DataAccess.AssemblyInfo.cs
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\obj\Debug\netcoreapp3.1\Ectotec.DataAccess.csproj.CoreCompileInputs.cache
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\obj\Debug\netcoreapp3.1\Ectotec.DataAccess.csproj.CopyComplete
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\obj\Debug\netcoreapp3.1\Ectotec.DataAccess.dll
+C:\Proyectos\ectotec\front-end\contact-form-test\back-end\DataAccess\Ectotec.DataAccess\obj\Debug\netcoreapp3.1\Ectotec.DataAccess.pdb

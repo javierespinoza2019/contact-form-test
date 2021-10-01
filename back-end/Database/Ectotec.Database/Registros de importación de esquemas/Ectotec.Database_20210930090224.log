@@ -1,0 +1,87 @@
+30/09/2021 04:02:24 a. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Ectotec.Database' del equipo 'PC-HOME' por el usuario 'hp laptop'.
+30/09/2021 04:02:24 a. m.	Se inició la importación del esquema de la base de datos.
+30/09/2021 04:02:35 a. m.	Recopilando credenciales de la base de datos
+30/09/2021 04:02:35 a. m.	Recopilando opciones de base de datos
+30/09/2021 04:02:35 a. m.	Recopilando la opción de configuración de ámbito de la base de datos genérica
+30/09/2021 04:02:35 a. m.	Recopilando usuarios
+30/09/2021 04:02:35 a. m.	Recopilando roles
+30/09/2021 04:02:35 a. m.	Recopilando roles de aplicación
+30/09/2021 04:02:35 a. m.	Recopilando pertenencias a roles
+30/09/2021 04:02:35 a. m.	Recopilando grupos de archivos
+30/09/2021 04:02:35 a. m.	Recopilando catálogos de texto completo
+30/09/2021 04:02:35 a. m.	Recopilando ensamblados
+30/09/2021 04:02:35 a. m.	Recopilando certificados
+30/09/2021 04:02:35 a. m.	Recopilando claves asimétricas
+30/09/2021 04:02:35 a. m.	Recopilando claves simétricas
+30/09/2021 04:02:35 a. m.	Recopilando claves simétricas cifradas
+30/09/2021 04:02:35 a. m.	Recopilando esquemas
+30/09/2021 04:02:35 a. m.	Recopilando colecciones de esquemas XML
+30/09/2021 04:02:36 a. m.	Recopilando tipos de datos definidos por el usuario
+30/09/2021 04:02:36 a. m.	Recopilando tipos definidos por el usuario
+30/09/2021 04:02:36 a. m.	Recopilando tipos de tabla
+30/09/2021 04:02:36 a. m.	Recopilando claves únicas para tipos de tabla
+30/09/2021 04:02:36 a. m.	Recopilando claves principales para tipos de tabla
+30/09/2021 04:02:36 a. m.	Recopilando índices para tipos de tablas
+30/09/2021 04:03:25 a. m.	Recopilando restricciones CHECK para tipos de tabla
+30/09/2021 04:03:25 a. m.	Recopilando restricciones DEFAULT para tipos de tabla
+30/09/2021 04:03:25 a. m.	Recopilando funciones de partición
+30/09/2021 04:03:25 a. m.	Recopilando esquemas de partición
+30/09/2021 04:03:25 a. m.	Recopilando funciones
+30/09/2021 04:03:25 a. m.	Recopilando funciones cifradas
+30/09/2021 04:03:25 a. m.	Recopilando agregados
+30/09/2021 04:03:25 a. m.	Recopilando procedimientos
+30/09/2021 04:03:25 a. m.	Recopilando procedimientos cifrados
+30/09/2021 04:03:25 a. m.	Recopilando tablas
+30/09/2021 04:03:25 a. m.	Recopilando claves principales
+30/09/2021 04:03:25 a. m.	Recopilando restricciones UNIQUE
+30/09/2021 04:03:25 a. m.	Recopilando claves externas
+30/09/2021 04:03:25 a. m.	Recopilando restricciones DEFAULT
+30/09/2021 04:03:45 a. m.	Recopilando restricciones CHECK
+30/09/2021 04:03:45 a. m.	Recopilando vistas
+30/09/2021 04:03:45 a. m.	Recopilando vistas cifradas
+30/09/2021 04:03:45 a. m.	Recopilando índices
+30/09/2021 04:03:45 a. m.	Recopilando estadísticas
+30/09/2021 04:03:45 a. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+30/09/2021 04:03:45 a. m.	Recopilando listas de propiedades de búsqueda
+30/09/2021 04:03:45 a. m.	Recopilando propiedades de búsqueda
+30/09/2021 04:03:45 a. m.	Recopilando índices de texto completo
+30/09/2021 04:03:45 a. m.	Recopilando índices de almacenamiento de columnas
+30/09/2021 04:03:45 a. m.	Recopilando índices espaciales
+30/09/2021 04:03:45 a. m.	Recopilando índices XML
+30/09/2021 04:03:45 a. m.	Recopilando índices XML selectivos
+30/09/2021 04:03:45 a. m.	Recopilando desencadenadores cifrados
+30/09/2021 04:03:45 a. m.	Recopilando desencadenadores
+30/09/2021 04:03:45 a. m.	Recopilando DDL triggers cifrados y de CLR
+30/09/2021 04:03:46 a. m.	Recopilando DDL triggers
+30/09/2021 04:03:46 a. m.	Creación de la restricción perimetral en curso
+30/09/2021 04:03:46 a. m.	Recopilando sinónimos
+30/09/2021 04:04:22 a. m.	Recopilando valores predeterminados
+30/09/2021 04:04:22 a. m.	Recopilando enlaces UDDT de restricción de datos
+30/09/2021 04:04:22 a. m.	Recopilando reglas
+30/09/2021 04:04:22 a. m.	Recopilando enlaces UDDT de restricción de datos
+30/09/2021 04:04:22 a. m.	Recopilando tipos de mensaje
+30/09/2021 04:04:22 a. m.	Recopilando colas
+30/09/2021 04:04:22 a. m.	Recopilando contratos
+30/09/2021 04:04:22 a. m.	Recopilando servicios
+30/09/2021 04:04:22 a. m.	Recopilando notificaciones de eventos
+30/09/2021 04:04:22 a. m.	Recopilando enlaces de servicio remoto
+30/09/2021 04:04:22 a. m.	Recopilando prioridades de Broker
+30/09/2021 04:04:22 a. m.	Recopilando firmas
+30/09/2021 04:04:22 a. m.	Recopilando opciones de compresión de datos
+30/09/2021 04:04:22 a. m.	Recopilando tipos de secuencia
+30/09/2021 04:04:22 a. m.	Recopilando directivas de seguridad
+30/09/2021 04:04:22 a. m.	Recopilar claves de cifrado de columna
+30/09/2021 04:04:22 a. m.	Recopilando claves maestras de columna
+30/09/2021 04:04:22 a. m.	Recopilando orígenes de datos externos
+30/09/2021 04:04:22 a. m.	Recopilando formatos de archivo externos
+30/09/2021 04:04:22 a. m.	Recopilando tablas externas
+30/09/2021 04:04:22 a. m.	Recopilando permisos de base de datos
+30/09/2021 04:04:22 a. m.	Recopilando propiedades extendidas
+30/09/2021 04:04:22 a. m.	Recopilando credenciales
+30/09/2021 04:04:22 a. m.	Recopilando inicios de sesión
+30/09/2021 04:04:22 a. m.	Recopilando auditorías de servidor
+30/09/2021 04:04:24 a. m.	Buscando elementos duplicados en el proyecto
+30/09/2021 04:04:25 a. m.	Ha finalizado el procesamiento de los elementos duplicados
+30/09/2021 04:04:25 a. m.	Finalizó la importación de la base de datos.
+30/09/2021 04:04:25 a. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\Proyectos\ectotec\front-end\contact-form-test\back-end\Database\Ectotec.Database\Registros de importación de esquemas\Ectotec.Database_20210930090224.log
+30/09/2021 04:04:25 a. m.	Haga clic en Finalizar para continuar...
